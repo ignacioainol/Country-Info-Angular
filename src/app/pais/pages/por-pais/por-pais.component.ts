@@ -31,5 +31,10 @@ export class PorPaisComponent {
 
   }
 
+  sugerencias(termino: string) {
+    this.existsError = false;
+    //todo crear sugerencias
+  }
+
 
 }
